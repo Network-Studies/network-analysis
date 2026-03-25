@@ -4,8 +4,8 @@
 This repository contains the custom Python computational pipeline used for analyzing the biological networks of Strontium and Calcium. The pipeline constructs protein-protein interaction (PPI) networks, calculates connectivity indices, performs Monte Carlo simulations, and conducts pathway network enrichment.
 
 ### Citation & Authorship
-This code accompanies the publication: **""** * **Authors:** [Insert 1st Author Name], [Insert Your Name], [Insert Other Authors]  
-* **Code Development & Maintenance:** [Insert Your Name] 
+This code accompanies the publication: **"Network-Based Systems Analysis Reveals Coordinated Wound-Healing Signaling Associated with Strontium Using a Literature-Driven Gene Extraction Framework"** * **Authors:** Rohith S, Sujatha Roy, Vijayageetha B, Arun Kumar N
+* **Code Development & Maintenance:** Rohith S, Arun Kumar N
 
 ## Pipeline Overview
 
@@ -27,4 +27,3 @@ Run the scripts in the following order:
 `python final_enrichment.py`
 `python analyze_network.py`
 `python enrichment_plot.py`
-
